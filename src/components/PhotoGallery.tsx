@@ -3,27 +3,27 @@ import { Card, CardContent } from "@/components/ui/card";
 
 const photos = [
   {
-    image: "/placeholder.svg",
+    image: "https://cdn.poehali.dev/files/d7112022-ce4f-4a8d-a38e-adbbdc3904aa.jpeg",
     caption: "Ты прекрасна во всем"
   },
   {
-    image: "/placeholder.svg",
+    image: "https://cdn.poehali.dev/files/5e74cbd6-0b2b-4643-9f78-cef0dd480281.jpeg",
     caption: "Твоя улыбка освещает мой мир"
   },
   {
-    image: "/placeholder.svg",
+    image: "https://cdn.poehali.dev/files/d0566b99-c2ae-4314-8e17-6889ef0eb1f2.jpeg",
     caption: "Твои кудряшки сводят меня с ума"
   },
   {
-    image: "/placeholder.svg",
-    caption: "Твои веснушки — как звезды на небе"
+    image: "https://cdn.poehali.dev/files/303027bb-3767-42e0-a1e8-4b724460b59d.jpeg",
+    caption: "Твоя красота неповторима"
   },
   {
-    image: "/placeholder.svg",
+    image: "https://cdn.poehali.dev/files/075f78b6-8618-469e-bc5d-d71545e39f27.jpeg",
     caption: "Ты делаешь мир ярче"
   },
   {
-    image: "/placeholder.svg",
+    image: "https://cdn.poehali.dev/files/d0566b99-c2ae-4314-8e17-6889ef0eb1f2.jpeg",
     caption: "Люблю каждую частичку тебя"
   }
 ];

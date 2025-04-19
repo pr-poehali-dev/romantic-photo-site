@@ -39,10 +39,18 @@ const LoveLetterSection = () => {
             </p>
             
             <p>
-              Я смотрю на тебя и вижу не только красивые кудряшки, очаровательные веснушки
-              и привлекательную фигуру. Я вижу человека с прекрасной душой, который наполняет
+              Я смотрю на тебя и вижу не только красивые кудряшки и привлекательную фигуру. 
+              Я вижу человека с прекрасной душой, который наполняет
               мою жизнь смыслом и радостью.
             </p>
+            
+            <div className="relative my-8">
+              <img 
+                src="https://cdn.poehali.dev/files/d7112022-ce4f-4a8d-a38e-adbbdc3904aa.jpeg" 
+                alt="Моя любимая" 
+                className="rounded-lg mx-auto max-w-xs photo-frame"
+              />
+            </div>
             
             <p className="text-primary font-semibold text-xl">
               Люблю тебя очень сильно ❤️

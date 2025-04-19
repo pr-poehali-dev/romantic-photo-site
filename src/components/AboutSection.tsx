@@ -15,7 +15,7 @@ const AboutSection = () => {
               <CardContent className="p-0">
                 <AspectRatio ratio={3/4}>
                   <img 
-                    src="/placeholder.svg" 
+                    src="https://cdn.poehali.dev/files/d7112022-ce4f-4a8d-a38e-adbbdc3904aa.jpeg" 
                     alt="Моя любимая" 
                     className="object-cover w-full h-full"
                   />
@@ -36,7 +36,7 @@ const AboutSection = () => {
                 <h3 className="text-xl font-semibold text-love-dark mb-2">Её прекрасные черты</h3>
                 <p className="text-foreground/80">
                   Милая и хорошая, с красивейшими кудряшками, которые так и хочется перебирать пальцами. 
-                  Её лицо украшают очаровательные веснушки, делая её ещё более неповторимой и особенной.
+                  Её лицо украшают очаровательные черты, делая её ещё более неповторимой и особенной.
                 </p>
               </div>
               

@@ -4,7 +4,11 @@ const Hero = () => {
   return (
     <div className="relative h-screen flex flex-col items-center justify-center overflow-hidden text-center px-4">
       <div className="absolute inset-0 -z-10">
-        <div className="absolute inset-0 bg-gradient-to-b from-love-light/50 to-white/30"></div>
+        <div 
+          className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-20" 
+          style={{ backgroundImage: "url('https://cdn.poehali.dev/files/d0566b99-c2ae-4314-8e17-6889ef0eb1f2.jpeg')" }}
+        ></div>
+        <div className="absolute inset-0 bg-gradient-to-b from-love-light/80 to-white/70"></div>
       </div>
       
       <Heart className="text-love animate-heartbeat text-6xl mb-8 heart-shadow" />

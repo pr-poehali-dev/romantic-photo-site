@@ -8,22 +8,22 @@ const MemoriesSection = () => {
     {
       title: "Наша первая встреча",
       description: "Тот солнечный вечер, когда мы познакомились, навсегда останется в моем сердце. Твоя улыбка осветила всё вокруг.",
-      images: ["/placeholder.svg", "/placeholder.svg"]
+      images: ["https://cdn.poehali.dev/files/5e74cbd6-0b2b-4643-9f78-cef0dd480281.jpeg", "https://cdn.poehali.dev/files/075f78b6-8618-469e-bc5d-d71545e39f27.jpeg"]
     },
     {
       title: "Когда я признался в чувствах",
       description: "Помнишь, как я предложил тебе встречаться? Я так волновался, но твой ответ сделал меня самым счастливым человеком.",
-      images: ["/placeholder.svg", "/placeholder.svg"]
+      images: ["https://cdn.poehali.dev/files/303027bb-3767-42e0-a1e8-4b724460b59d.jpeg", "https://cdn.poehali.dev/files/d0566b99-c2ae-4314-8e17-6889ef0eb1f2.jpeg"]
     },
     {
       title: "Наши поездки на машине",
       description: "Наши спонтанные поездки, когда мы включали музыку и просто наслаждались дорогой и компанией друг друга.",
-      images: ["/placeholder.svg", "/placeholder.svg"]
+      images: ["https://cdn.poehali.dev/files/d7112022-ce4f-4a8d-a38e-adbbdc3904aa.jpeg", "https://cdn.poehali.dev/files/5e74cbd6-0b2b-4643-9f78-cef0dd480281.jpeg"]
     },
     {
       title: "Закаты и рассветы",
       description: "Волшебные моменты, когда мы вместе встречали рассветы и провожали закаты, держась за руки и мечтая о будущем.",
-      images: ["/placeholder.svg", "/placeholder.svg"]
+      images: ["https://cdn.poehali.dev/files/d0566b99-c2ae-4314-8e17-6889ef0eb1f2.jpeg", "https://cdn.poehali.dev/files/303027bb-3767-42e0-a1e8-4b724460b59d.jpeg"]
     }
   ];
 
